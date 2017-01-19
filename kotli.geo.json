@@ -5,6 +5,9 @@
       "type": "Feature",
       "properties": {
       "division": "Mirpur",
+        "district":"Kotli",
+        "territory":"Azad Jammu & Kashmir",
+        "capital":"Kotli",
         "tehsil": 6,
         "subDivisions": 6,
         "villages": 234,
