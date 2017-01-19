@@ -13,13 +13,13 @@
         "division": "Mirpur",
         "villages": 207,
         "areaSqkm": 1516,
-        "areaPercentage": "11.4%",
+        "areaPercentage": 11.4,
         "unionCouncils": 18,
-        "growthRate": "2.6%",
-        "population": "0.302M",
+        "growthRate": 2.6,
+        "population": 0.302,
         "projectedPopulation": 0.455,
         "densitysqKm": 300,
-        "literacyRate": "79%"
+        "literacyRate": 79
       },
       "geometry": {
         "type": "Polygon",
