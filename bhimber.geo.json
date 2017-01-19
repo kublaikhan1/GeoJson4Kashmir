@@ -3,7 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "district": "Bimbher",
+        "territory": "Azad Jammu & Kashmir",
+        "tehsil": 3,
+        "capital": "Bhimber",
+        "subDivisions": 3,
+        "division": "Mirpur",
+        "villages": 207,
+        "areaSqkm": 1516,
+        "areaPercentage": "11.4%",
+        "unionCouncils": 18,
+        "growthRate": "2.6%",
+        "population": "0.302M",
+        "projectedPopulation": 0.455,
+        "densitysqKm": 300,
+        "literacyRate": "79%",
+        "schools": 595
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
