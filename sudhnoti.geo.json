@@ -10,9 +10,9 @@
         "villages": 246,
         "unionCouncils": 22,
         "areaSqkm": 569,
-        "areaPercentage": "4.3",
-        "growthRate": "1.99%",
-        "population": "0.224M",
+        "areaPercentage": 4.3,
+        "growthRate": 1.99,
+        "population": 0.224,
         "projectedPopulation": 0.307,
         "densitysqKm": 540,
         "literacyRate": 79
