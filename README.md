@@ -1,14 +1,14 @@
 # GeoJson4Kashmir
 
-Accurate geoJson Data for divisions, districts, cities and various locations through out Kashmir.
+Accurate geoJSON/TopoJson/SVG files for divisions, districts, cities and various locations through out Kashmir.
 
-Descritive json files so they can be properly reused and carry meaningful and accurate data of Kashmir as a seperate region.
+Descritive files so they can be properly reused and carry meaningful and accurate data of Kashmir as a seperate region.
 
-Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, India or china.
+Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, India or china. To overcome challenges of creating maps for conflicted regions.
 
-Create accurate geojson files for
+Create accurate geojson files for:
 
-Kashmir entire
+Kashmir (Entire Region)
 
 AJK
 
@@ -27,3 +27,7 @@ Created using:
 http://geojson.io/
 
 https://google-developers.appspot.com/maps/documentation/utils/geojson/
+
+http://www.mapshaper.org/
+
+https://www.mapbox.com/help/define-geojson/
