@@ -1276,7 +1276,20 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "division": "Poonch",
+        "tehsil": 4,
+        "subDivisions": 4,
+        "villages": 246,
+        "unionCouncils": 22,
+        "areaSqkm": 569,
+        "areaPercentage": "4.3",
+        "growthRate": "1.99%",
+        "population": "0.224M",
+        "projectedPopulation": 0.307,
+        "densitysqKm": 540,
+        "literacyRate": 79
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
