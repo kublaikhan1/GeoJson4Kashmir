@@ -5,6 +5,9 @@
       "type": "Feature",
       "properties": {
         "division": "Mirpur",
+        "district":"Mirpur",
+        "territory":"Azad Jammu & Kashmir",
+        "capital":"Mirpur",
         "tehsil": 2,
         "subDivisions": 2,
         "villages": 246,
