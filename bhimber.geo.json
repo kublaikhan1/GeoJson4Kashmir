@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "district": "Bimbher",
+        "division": "Mirpur",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 3,
         "capital": "Bhimber",
