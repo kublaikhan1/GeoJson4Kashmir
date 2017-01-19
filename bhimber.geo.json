@@ -18,8 +18,7 @@
         "population": "0.302M",
         "projectedPopulation": 0.455,
         "densitysqKm": 300,
-        "literacyRate": "79%",
-        "schools": 595
+        "literacyRate": "79%"
       },
       "geometry": {
         "type": "Polygon",
