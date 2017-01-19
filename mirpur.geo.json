@@ -3,7 +3,20 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "division": "Mirpur",
+        "tehsil": 2,
+        "subDivisions": 2,
+        "villages": 246,
+        "unionCouncils": 22,
+        "areaSqkm": 1010,
+        "areaPercentage": "7.6",
+        "growthRate": "2.09%",
+        "population": "0.333M",
+        "projectedPopulation": 0.464,
+        "densitysqKm": 459,
+        "literacyRate": 78
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
