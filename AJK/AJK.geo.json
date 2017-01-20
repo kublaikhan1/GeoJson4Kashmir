@@ -7,6 +7,7 @@
         "region":"Jammu & Kashmir",
         "Status":"Controlled by Pakistan",
         "territory": "Azad Jammu & Kashmir",
+        "id": "AJK",
         "capital": "Muzaffarabad",
         "Divisions":3,
         "policeStations":46,
