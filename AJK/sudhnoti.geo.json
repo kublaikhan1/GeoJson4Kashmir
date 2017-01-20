@@ -5,9 +5,10 @@
       "type": "Feature",
       "properties": {
         "division": "Poonch",
-        "district":"sudhnoti",
+        "district":"Sudhnoti",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Palandri",
+        "id":"Sudhnoti",  
         "tehsil": 4,
         "subDivisions": 4,
         "villages": 246,

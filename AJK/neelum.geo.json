@@ -8,6 +8,7 @@
         "district": "Neelum",
         "territory": "Azad Jammu & Kashmir",
         "capital": "Athmuqam",
+        "id":"Neelum",  
         "tehsil": 2,
         "subDivisions": 2,
         "villages": 88,

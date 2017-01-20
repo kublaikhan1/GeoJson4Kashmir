@@ -9,6 +9,7 @@
         "territory":"Azad Jammu & Kashmir",
         "capital":"Mirpur",
         "tehsil": 2,
+        "id":"Mirpur",  
         "subDivisions": 2,
         "villages": 246,
         "unionCouncils": 22,
