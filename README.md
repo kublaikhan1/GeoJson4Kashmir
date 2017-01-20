@@ -31,3 +31,7 @@ https://google-developers.appspot.com/maps/documentation/utils/geojson/
 http://www.mapshaper.org/
 
 https://www.mapbox.com/help/define-geojson/
+
+Data source for Azad Jammu & kashmir is :
+
+http://pndajk.gov.pk/Documents/AJK%20at%20a%20glance%202014.pdf
