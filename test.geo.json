@@ -2,6 +2,24 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
+      "properties": {
+        "division": "Muzaffarabad",
+        "district": "Muzaffarabad",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Muzaffarabad",
+        "tehsil": 2,
+        "subDivisions": 2,
+        "villages": 415,
+        "unionCouncils": 25,
+        "areaSqkm": 1642,
+        "areaPercentage": 12.4,
+        "growthRate": 2.8,
+        "population": 0.454,
+        "projectedPopulation": 0.706,
+        "densitysqKm": 430,
+        "literacyRate": 72
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -510,7 +528,25 @@
         ]
       }
     },   
-    
+    {
+      "type": "Feature",
+      "properties": {
+      "division": "Muzaffarabad",
+        "district": "Neelum",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Athmuqam",
+        "tehsil": 2,
+        "subDivisions": 2,
+        "villages": 88,
+        "unionCouncils": 9,
+        "areaSqkm": 3621,
+        "areaPercentage": 27.2,
+        "growthRate": 2.80,
+        "population": 0.126,
+        "projectedPopulation": 0.196,
+        "densitysqKm": 54,
+        "literacyRate": 54
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
