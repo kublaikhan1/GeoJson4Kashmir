@@ -6,6 +6,7 @@
       "properties": {
         "division": "Muzaffarabad",
         "district": "Muzaffarabad",
+        "id": "Muzaffarabad",
         "territory": "Azad Jammu & Kashmir",
         "capital": "Muzaffarabad",
         "tehsil": 2,
@@ -527,12 +528,13 @@
           ]
         ]
       }
-    },   
+    },
     {
       "type": "Feature",
       "properties": {
       "division": "Muzaffarabad",
         "district": "Neelum",
+        "id": "Neelum",
         "territory": "Azad Jammu & Kashmir",
         "capital": "Athmuqam",
         "tehsil": 2,
@@ -1487,7 +1489,8 @@
       "type": "Feature",
       "properties": {
         "division": "Muzaffarabad",
-        "district":"Hattian-Bala",
+        "district": "Hattian-Bala",
+        "id": "Hattian-Bala",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Hattian-Bala",
         "tehsil": 3,
@@ -1718,7 +1721,8 @@
       "type": "Feature",
       "properties": {
        "division": "Poonch",
-        "district":"Bagh",
+        "district": "Bagh",
+        "id": "Bagh",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Bagh",
         "tehsil": 3,
@@ -2081,6 +2085,7 @@
       "type": "Feature",
       "properties": {
       "district": "Haveli",
+      "id": "Haveli",
         "division": "Poonch",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 3,
@@ -2248,6 +2253,7 @@
       "type": "Feature",
       "properties": {
       "district": "Poonch",
+      "id": "Poonch",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 4,
         "capital": "Rawalakot",
@@ -2615,7 +2621,8 @@
       "type": "Feature",
       "properties": {
         "division": "Poonch",
-        "district":"sudhnoti",
+        "district": "sudhnoti",
+        "id": "sudhnoti",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Palandri",
         "tehsil": 4,
@@ -2818,7 +2825,8 @@
       "type": "Feature",
       "properties": {
         "division": "Mirpur",
-        "district":"Mirpur",
+        "district": "Mirpur",
+        "id": "Mirpur",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Mirpur",
         "tehsil": 2,
@@ -3165,6 +3173,7 @@
       "type": "Feature",
       "properties": {
         "district": "Bimbher",
+        "id": "Bimbher",
         "division": "Mirpur",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 3,
@@ -3752,7 +3761,8 @@
       "type": "Feature",
       "properties": {
         "division": "Mirpur",
-        "district":"Kotli",
+        "district": "Kotli",
+        "id": "Kotli",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Kotli",
         "tehsil": 6,
