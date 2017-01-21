@@ -9,8 +9,7 @@
         "title":"Siachen Glaicer",
         "location": "Korakoram Range",
         "type":"mountain glacier",
-        "region":"Jammu Kashmir",
-        
+        "region":"Jammu Kashmir"        
       },
       "geometry": {
         "type": "Polygon",
