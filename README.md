@@ -32,6 +32,10 @@ http://www.mapshaper.org/
 
 https://www.mapbox.com/help/define-geojson/
 
+http://nominatim.openstreetmap.org/
+
+http://polygons.openstreetmap.fr/index.py
+
 Data source for Azad Jammu & kashmir is :
 
 http://pndajk.gov.pk/Documents/AJK%20at%20a%20glance%202014.pdf
