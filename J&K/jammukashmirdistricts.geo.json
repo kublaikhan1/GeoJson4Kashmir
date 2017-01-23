@@ -4,7 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "author": "Khawaja hamad"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": "kargil",
+        "title": "Kargil"
       },
       "geometry": {
         "type": "Polygon",
@@ -2371,8 +2377,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id":"poonch",
-        "title":"Poonch"
+        "id": "poonch",
+        "title": "Poonch"
       },
       "geometry": {
         "type": "Polygon",
@@ -6241,7 +6247,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": "shopian",
+        "title": "Shopian"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
