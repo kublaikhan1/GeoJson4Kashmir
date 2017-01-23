@@ -2371,17 +2371,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ID_0": 105,
-        "ISO": "IND",
-        "NAME_0": "India",
-        "ID_1": 15,
-        "NAME_1": "Jammu and Kashmir",
-        "ID_2": 190,
-        "NAME_2": "Punch",
-        "NL_NAME_2": null,
-        "VARNAME_2": null,
-        "TYPE_2": "District",
-        "ENGTYPE_2": "District"
+        "id":"poonch",
+        "title":"Poonch"
       },
       "geometry": {
         "type": "Polygon",
