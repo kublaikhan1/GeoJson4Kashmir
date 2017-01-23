@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "author":"khawaja hamad",
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

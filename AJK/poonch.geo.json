@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
       "district": "Poonch",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 4,

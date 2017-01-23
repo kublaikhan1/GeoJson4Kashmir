@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "author":"khawaja hamad",
       "type": "Feature",
       "properties": {
         "division": "Muzaffarabad",

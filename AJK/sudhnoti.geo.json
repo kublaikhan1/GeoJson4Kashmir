@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "division": "Poonch",
         "district":"Sudhnoti",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Palandri",
-        "id":"Sudhnoti",  
+        "id":"Sudhnoti",
         "tehsil": 4,
         "subDivisions": 4,
         "villages": 246,

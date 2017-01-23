@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
       "division": "Mirpur",
         "district":"Kotli",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Kotli",
-        "id":"Kotli",  
+        "id":"Kotli",
         "tehsil": 6,
         "subDivisions": 6,
         "villages": 234,

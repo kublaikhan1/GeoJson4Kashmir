@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "region":"Jammu & Kashmir",
         "Status":"Controlled by Pakistan",
         "territory": "Azad Jammu & Kashmir",
@@ -39,7 +40,7 @@
         "urbanRuralratio":"88:12",
         "perCapitaPowerAvailabilityKWH":353,
         "perCapitaIncomeAnnumUS$ ":1512
-        
+
       },
       "geometry": {
         "type": "Polygon",

@@ -4,18 +4,19 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "id":"Siachen",
         "name":"Siachen",
         "title":"Siachen Glaicer",
         "location": "Korakoram Range",
         "type":"mountain glacier",
-        "region":"Jammu Kashmir"        
+        "region":"Jammu Kashmir"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [ 
+            [
               77.16487884521486,
               35.53837262068698
             ],

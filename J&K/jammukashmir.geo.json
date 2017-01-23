@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "name": "jammukashmir",
         "id": "jammukashmir",
         "region": "JammuKashmir",

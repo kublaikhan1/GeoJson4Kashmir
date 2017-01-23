@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
+      "author":"khawaja hamad",
       "district": "Haveli",
         "division": "Poonch",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 3,
-        "id":"Haveli",  
+        "id":"Haveli",
         "capital": "Farward Kahuta",
         "subDivisions": 3,
         "villages": 91,

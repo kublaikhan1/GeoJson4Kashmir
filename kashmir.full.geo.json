@@ -4,6 +4,7 @@
   {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "division": "Poonch",
         "district": "Bagh",
         "territory": "Azad Jammu & Kashmir",

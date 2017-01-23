@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "division": "Muzaffarabad",
         "district":"Hattian-Bala",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Hattian-Bala",
-        "id":"Hattian-Bala",  
+        "id":"Hattian-Bala",
         "tehsil": 3,
         "subDivisions": 3,
         "villages": 167,

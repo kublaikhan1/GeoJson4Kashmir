@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "territory": "China",
         "id": "shanksgam",
         "title": "Shanksgam",

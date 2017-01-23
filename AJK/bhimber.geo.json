@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "district": "Bimbher",
         "division": "Mirpur",
         "id":"Bimbher",

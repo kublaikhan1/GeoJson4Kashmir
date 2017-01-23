@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "division": "Muzaffarabad",
         "district": "Muzaffarabad",
         "territory": "Azad Jammu & Kashmir",
         "capital": "Muzaffarabad",
-        "id": "Muzaffarabad",  
+        "id": "Muzaffarabad",
         "tehsil": 2,
         "subDivisions": 2,
         "villages": 415,

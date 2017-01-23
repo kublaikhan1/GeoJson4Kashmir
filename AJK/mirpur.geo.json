@@ -4,12 +4,13 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"khawaja hamad",
         "division": "Mirpur",
         "district":"Mirpur",
         "territory":"Azad Jammu & Kashmir",
         "capital":"Mirpur",
         "tehsil": 2,
-        "id":"Mirpur",  
+        "id":"Mirpur",
         "subDivisions": 2,
         "villages": 246,
         "unionCouncils": 22,
