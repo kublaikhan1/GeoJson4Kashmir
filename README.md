@@ -1,6 +1,6 @@
 # GeoJson4Kashmir
 
-Accurate geoJSON/TopoJson/SVG files for divisions, districts, cities and various locations through out Kashmir.
+Accurate geoJSON/SVG files for divisions, districts, cities and various important locations through out Kashmir.
 
 Descritive files so they can be properly reused and carry meaningful and accurate data of Kashmir as a seperate region.
 
