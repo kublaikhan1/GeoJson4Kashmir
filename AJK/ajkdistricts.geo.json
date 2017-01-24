@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "author":"khawaja hamad",
+      "author": "khawaja hamad",
       "type": "Feature",
       "properties": {
         "division": "Muzaffarabad",
@@ -533,7 +533,7 @@
     {
       "type": "Feature",
       "properties": {
-      "division": "Muzaffarabad",
+        "division": "Muzaffarabad",
         "district": "Neelum",
         "id": "Neelum",
         "territory": "Azad Jammu & Kashmir",
@@ -544,7 +544,7 @@
         "unionCouncils": 9,
         "areaSqkm": 3621,
         "areaPercentage": 27.2,
-        "growthRate": 2.80,
+        "growthRate": 2.8,
         "population": 0.126,
         "projectedPopulation": 0.196,
         "densitysqKm": 54,
@@ -1492,15 +1492,15 @@
         "division": "Muzaffarabad",
         "district": "Hattian-Bala",
         "id": "Hattian-Bala",
-        "territory":"Azad Jammu & Kashmir",
-        "capital":"Hattian-Bala",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Hattian-Bala",
         "tehsil": 3,
         "subDivisions": 3,
         "villages": 167,
         "unionCouncils": 13,
         "areaSqkm": 854,
         "areaPercentage": 6.4,
-        "growthRate": 2.80,
+        "growthRate": 2.8,
         "population": 0.166,
         "projectedPopulation": 0.258,
         "densitysqKm": 302,
@@ -1718,21 +1718,21 @@
         ]
       }
     },
-       {
+    {
       "type": "Feature",
       "properties": {
-       "division": "Poonch",
+        "division": "Poonch",
         "district": "Bagh",
         "id": "Bagh",
-        "territory":"Azad Jammu & Kashmir",
-        "capital":"Bagh",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Bagh",
         "tehsil": 3,
         "subDivisions": 3,
         "villages": 140,
         "unionCouncils": 19,
         "areaSqkm": 770,
         "areaPercentage": 5.8,
-        "growthRate": 2.00,
+        "growthRate": 2,
         "population": 0.282,
         "projectedPopulation": 0.387,
         "densitysqKm": 503,
@@ -2082,11 +2082,11 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
-      "district": "Haveli",
-      "id": "Haveli",
+        "district": "Haveli",
+        "id": "Haveli",
         "division": "Poonch",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 3,
@@ -2096,7 +2096,7 @@
         "areaSqkm": 598,
         "areaPercentage": 4.5,
         "unionCouncils": 8,
-        "growthRate": 2.0,
+        "growthRate": 2,
         "population": 0.112,
         "projectedPopulation": 0.154,
         "densitysqKm": 257,
@@ -2250,11 +2250,11 @@
         ]
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
-      "district": "Poonch",
-      "id": "Poonch",
+        "district": "Poonch",
+        "id": "Poonch",
         "territory": "Azad Jammu & Kashmir",
         "tehsil": 4,
         "capital": "Rawalakot",
@@ -2618,14 +2618,14 @@
         ]
       }
     },
-{
+    {
       "type": "Feature",
       "properties": {
         "division": "Poonch",
         "district": "sudhnoti",
         "id": "sudhnoti",
-        "territory":"Azad Jammu & Kashmir",
-        "capital":"Palandri",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Palandri",
         "tehsil": 4,
         "subDivisions": 4,
         "villages": 246,
@@ -2828,8 +2828,8 @@
         "division": "Mirpur",
         "district": "Mirpur",
         "id": "Mirpur",
-        "territory":"Azad Jammu & Kashmir",
-        "capital":"Mirpur",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Mirpur",
         "tehsil": 2,
         "subDivisions": 2,
         "villages": 246,
@@ -3764,14 +3764,14 @@
         "division": "Mirpur",
         "district": "Kotli",
         "id": "Kotli",
-        "territory":"Azad Jammu & Kashmir",
-        "capital":"Kotli",
+        "territory": "Azad Jammu & Kashmir",
+        "capital": "Kotli",
         "tehsil": 6,
         "subDivisions": 6,
         "villages": 234,
         "unionCouncils": 38,
         "areaSqkm": 1862,
-        "areaPercentage": 14.0,
+        "areaPercentage": 14,
         "growthRate": 2.59,
         "population": 0.563,
         "projectedPopulation": 0.848,
@@ -4111,6 +4111,17 @@
               33.237538907121575
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.46694946289062,
+          34.37064492478658
         ]
       }
     }
