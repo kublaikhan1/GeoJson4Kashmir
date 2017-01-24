@@ -4117,8 +4117,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id":"muzaffarabad city",
-        "title":"muzaffarabad"
+        "id":"muzaffarabad",
+        "title":"Muzaffarabad"
        },
       "geometry": {
         "type": "Point",
