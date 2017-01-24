@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "author":"khawaja hamad",
+        "author":"khawaja hamad"
       },
       "geometry": {
         "type": "Polygon",
