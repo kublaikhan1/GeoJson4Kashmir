@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"Hamad Khawaja",
         "district": "Haveli",
         "id": "Haveli",
         "division": "Poonch",
