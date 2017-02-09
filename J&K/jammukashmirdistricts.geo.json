@@ -173,6 +173,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"Hamad Khawaja",  
         "id": "kargil",
         "title": "Kargil"
       },
@@ -2541,6 +2542,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"Hamad Khawaja",
         "id": "poonch",
         "title": "Poonch"
       },
@@ -4718,6 +4720,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Hamad Khawaja",  
         "id": "kishtwar",
         "title": "Kishtwar"
       },
@@ -5020,6 +5023,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"Hamad Khawaja",
         "id": "doda",
         "title": "Doda"
       },
@@ -5214,6 +5218,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Hamad Khawaja",  
         "id": "ramban",
         "title": "Ramban"
       },
@@ -5316,6 +5321,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Hamad Khawaja",  
         "id": "reasi",
         "title": "Reasi"
       },
@@ -5466,6 +5472,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Hamad Khawaja",  
         "id": "udhampur",
         "title": "Udhampur"
       },
@@ -5620,6 +5627,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Hamad Khawaja",  
         "id": "anantang",
         "title": "Anantang"
       },
@@ -5786,6 +5794,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"Khawaja hamad",  
         "id": "bandipora",
         "title": "Bandipora"
       },
@@ -6012,6 +6021,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Khawaja hamad",  
         "id": "ganderbal",
         "title": "Ganderbal"
       },
@@ -6178,6 +6188,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Khawaja hamad",  
         "id": "baramullah",
         "title": "Baramullah"
       },
@@ -6412,6 +6423,7 @@
     {
       "type": "Feature",
       "properties": {
+        "author":"Khawaja hamad",  
         "id": "shopian",
         "title": "Shopian"
       },
@@ -6546,6 +6558,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Khawaja hamad",  
         "id": "srinagar",
         "title": "Srinagar"
       },
@@ -6672,6 +6685,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Khawaja hamad",  
         "id": "budgam",
         "title": "budgam"
       },
@@ -6786,6 +6800,7 @@
     {
       "type": "Feature",
       "properties": {
+         "author":"Khawaja hamad",  
         "id": "pulwama",
         "title": "Pulwama"
       },
