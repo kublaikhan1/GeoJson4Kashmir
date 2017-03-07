@@ -8,19 +8,19 @@ Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, Indi
 
 Create accurate geojson files for:
 
-    Kashmir (Entire Region)
+1. Kashmir (Entire Region)
 
-    AJK
+2. AJK
 
-    J&K
+3. J&K
 
-    G&B
+4. G&B
 
-    Districts
+5. Districts
 
-    Important Cities
+6. Important Cities
 
-    Imortant Locations
+7. Imortant Locations
 
 Created using:
 
