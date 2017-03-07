@@ -8,34 +8,34 @@ Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, Indi
 
 Create accurate geojson files for:
 
-Kashmir (Entire Region)
+    Kashmir (Entire Region)
 
-AJK
+    AJK
 
-J&K
+    J&K
 
-G&B
+    G&B
 
-Districts
+    Districts
 
-Important Cities
+    Important Cities
 
-Imortant Locations
+    Imortant Locations
 
 Created using:
 
-http://geojson.io/
+    http://geojson.io/
 
-https://google-developers.appspot.com/maps/documentation/utils/geojson/
+    https://google-developers.appspot.com/maps/documentation/utils/geojson/
 
-http://www.mapshaper.org/
+    http://www.mapshaper.org/
 
-https://www.mapbox.com/help/define-geojson/
+    https://www.mapbox.com/help/define-geojson/
 
-http://nominatim.openstreetmap.org/
+    http://nominatim.openstreetmap.org/
 
-http://polygons.openstreetmap.fr/index.py
+    http://polygons.openstreetmap.fr/index.py
 
 Data source for Azad Jammu & kashmir is :
 
-http://pndajk.gov.pk/Documents/AJK%20at%20a%20glance%202014.pdf
+    http://pndajk.gov.pk/Documents/AJK%20at%20a%20glance%202014.pdf
