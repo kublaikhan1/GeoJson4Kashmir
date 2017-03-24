@@ -36,6 +36,13 @@ Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, Indi
 
     http://polygons.openstreetmap.fr/index.py
 
+### Creating other source files from GeoJson
+    http://www.mapshaper.org/      (topoJson,Shapefile,CSV,SVG)
+    
+    Generating map with topoJson
+    
+    http://bl.ocks.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63
+    
 ### Data source for Azad Jammu & kashmir is :
 
     http://pndajk.gov.pk/Documents/AJK%20at%20a%20glance%202014.pdf
