@@ -6,7 +6,7 @@ Descritive files so they can be properly reused and carry meaningful and accurat
 
 Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, India or china. To overcome challenges of creating maps for conflicted regions.
 
-###Create accurate geojson files for:
+### Create accurate geojson files for:
 
 1. Kashmir (Entire Region)
 
@@ -22,7 +22,7 @@ Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, Indi
 
 7. Imortant Locations
 
-###Created using:
+### Created using:
 
     http://geojson.io/
 
@@ -36,6 +36,6 @@ Create Kashmir GeoJson files as a seperate entity. Not to include Pakistan, Indi
 
     http://polygons.openstreetmap.fr/index.py
 
-###Data source for Azad Jammu & kashmir is :
+### Data source for Azad Jammu & kashmir is :
 
     http://pndajk.gov.pk/Documents/AJK%20at%20a%20glance%202014.pdf
